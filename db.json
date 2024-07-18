@@ -1,9 +1,32 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "cocktails": [
+    {
+      "id": "1",
+      "name": "Margarita",
+      "ingredients": "2 oz Tequila, 1 oz Lime juice, 1 oz Triple sec",
+      "instructions": "Rub the rim of the glass with the lime slice to make the salt stick to it. Take care to moisten only the outer rim and sprinkle the salt on it. The salt should present to the lips of the imbiber and never mix into the cocktail.",
+      "image": "https://www.thecocktaildb.com/images/media/drink/wpxpvu1439905379.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Martini",
+      "ingredients": "2 1/2 oz Gin, 1/2 oz Dry Vermouth",
+      "instructions": "Place ice and water in a glass to chill it. Pour gin and vermouth into a mixing glass. Stir well for 20 seconds and strain into the chilled glass.",
+      "image": "https://www.thecocktaildb.com/images/media/drink/71t8581504353095.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Negroni",
+      "ingredients": "1 oz Gin, 1 oz Campari, 1 oz Sweet Vermouth",
+      "instructions": "Stir all ingredients with ice, then strain into a glass.",
+      "image": "https://www.thecocktaildb.com/images/media/drink/qgdu971561574065.jpg"
+    },
+    {
+      "id": "10",
+      "name": "Bloody Mary",
+      "ingredients": "1 1/2 oz Vodka, 3 oz Tomato juice, 1/2 oz Lemon juice, Dash of Worcestershire sauce, Dash of Tabasco sauce, Pinch of salt and pepper",
+      "instructions": "Build all ingredients in a glass over ice. Stir gently.",
+      "image": "https://www.thecocktaildb.com/images/media/drink/t6caa21582485702.jpg"
+    }
+  ]
 }
